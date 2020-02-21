@@ -25,7 +25,7 @@
 #include "Arduino.h"
 #include <Wire.h>
 
-#include <Adafruit_Sensor.h>
+#include "../Adafruit_Sensor/Adafruit_Sensor.h"
 #include "utility/imumaths.h"
 
 /** BNO055 Address A **/
